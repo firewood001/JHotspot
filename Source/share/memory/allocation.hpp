@@ -19,5 +19,5 @@ class AllocatedObj{
 
 class ResourceObj ALLOCATION_SUPER_CLASS_SPEC{
 
-};ß
+};
 #endif
