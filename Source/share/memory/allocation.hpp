@@ -7,6 +7,7 @@
 #define ALLOCATION_SUPER_CLASS_SPEC
 #else
 #define ALLOCATION_SUPER_CLASS_SPEC : public AllocatedObj
+
 class AllocatedObj{
     public:
         //Printing support
