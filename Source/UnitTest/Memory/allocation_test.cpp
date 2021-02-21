@@ -1,5 +1,5 @@
 #include "allocation_test.hpp"
-void Allocation_test::initialze()
+void Allocation_test::initialize()
 {
     
 }
